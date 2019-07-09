@@ -16,5 +16,5 @@ Adicionado container para quando for executado, exibir Code.education Rocks.
 Código em go-lang/desafio-docker
 
 Endereço do container: cristianopacheco/codeeducation
-https://cloud.docker.com/u/cristianopacheco/repository/docker/cristianopacheco/codeeducation
+https://hub.docker.com/r/cristianopacheco/codeeducation
 
