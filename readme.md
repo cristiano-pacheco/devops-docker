@@ -15,6 +15,12 @@ Obs. O código com as alterações está no diretório laravel/.docker e laravel
 Adicionado container para quando for executado, exibir Code.education Rocks.
 Código em go-lang/desafio-docker
 
+Comando para executar o container:
+
+``` 
+docker run --rm cristianopacheco/codeeducation
+```
+
 Endereço do container: cristianopacheco/codeeducation
 https://hub.docker.com/r/cristianopacheco/codeeducation
 
